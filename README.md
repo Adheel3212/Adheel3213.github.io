@@ -9,4 +9,5 @@
 <p>This is the first paragraph of my content.</p>
 <p>This is the second paragraph.</p>
 
+remote_theme: pages-themes/architect@v0.2.0
 
