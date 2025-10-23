@@ -9,7 +9,4 @@
 <p>This is the first paragraph of my content.</p>
 <p>This is the second paragraph.</p>
 
-remote_theme: pages-themes/architect@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-  
+
